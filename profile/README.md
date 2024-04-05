@@ -15,3 +15,5 @@ The Hollfelder group is interested in gaining a fundamental understanding of the
 3. Where does extreme miniaturisation of experiments (into picoliter droplets made in microfluidic devices) help to answer chemical and biological questions?
 
 Find out more on our [website](https://hollfelder.bioc.cam.ac.uk/).
+
+If you are looking for some of our older repositories, check out [our previous fhlab account](https://github.com/fhlab).
